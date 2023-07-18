@@ -1,6 +1,3 @@
-Certainly! Here's an example template for a README file for a weather app built with Node.js:
-
-```
 # Weather App
 
 This is a simple weather app built with Node.js that provides current weather information based on user input.
