@@ -1,7 +1,7 @@
 # Weather App
 
 This is a simple weather app built with Node.js that provides current weather information based on user input.
-![image](https://github.com/ZiadAhmed184/Weather-App/assets/91778232/4b2dd6d5-b260-41a0-8b8e-0be1a8c7c650)
+<img src="https://github.com/ZiadAhmed184/Weather-App/assets/91778232/4b2dd6d5-b260-41a0-8b8e-0be1a8c7c650" height="200" width="200">
 
 ## Features
 
