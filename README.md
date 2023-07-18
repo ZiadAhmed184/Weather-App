@@ -28,10 +28,6 @@ This is a simple weather app built with Node.js that provides current weather in
 4. Set up API credentials:
    - Obtain API credentials from a weather data provider (e.g., OpenWeatherMap).
    - Create a `.env` file in the root directory.
-   - Add the following line to the `.env` file, replacing `<API_KEY>` with your actual API key:
-     ```env
-     API_KEY=<API_KEY>
-     ```
 
 ## Usage
 
